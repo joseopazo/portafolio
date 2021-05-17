@@ -1,0 +1,106 @@
+body{
+    background-image: url("../img/javascriptfondo.jpg");
+    background-repeat: no-repeat;
+
+}
+
+
+div #parrafo p{
+    color: rgb(0, 0, 0);
+}
+
+.fotoperfil {
+    border-radius: 50%;
+    height: 212px;
+    margin-top: 18px;
+}
+
+.contenidoTotal{
+    display: flex;
+    background-color: rgb(236, 235, 186);
+    border-radius: 15px;
+    opacity: 0.9;
+    margin-top: 30px;
+    
+}
+
+#parrafo{
+    margin-top: -290px;
+    margin-left: 205px;
+    position: absolute;
+    
+}
+
+
+h1 {
+    width: 460px;
+    margin-top: 41px;
+    margin-left: 15px;
+    font-family: 'Inter', sans-serif;
+}
+
+h2 {
+    width: 500px;
+    margin-left: 15px;
+    font-family: 'Shadows Into Light', cursive;
+    margin-top: -19px;
+    color: brown;
+}
+
+
+#textContacto{
+
+    display: flex;
+    justify-content: center;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 50px;
+    color: rgb(209, 209, 209);
+}
+
+.textoproyecto{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 50px;
+    color: rgb(209, 209, 209);
+    
+}
+
+.proyectos{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    
+    border-radius: 25px;
+}
+
+
+#div_imagenes{
+    display: flex;
+    justify-content: space-between;
+    width: 1145px;
+    margin-left: 100px;
+}
+
+#parrafo_descripcion{
+    font-family: 'Abel', sans-serif;
+    margin-top: 20px;
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.totalImagenes{
+    background-color: rgb(236, 235, 186);
+    border-radius: 10px;
+    opacity: 0.9;
+   
+   
+   
+}
+
+.iconos a i{
+
+    color: rgb(209, 209, 209);
+}
